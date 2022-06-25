@@ -1,2 +1,2 @@
-# Django-CRUD
-Zuri-Task Django CRUD
+# django-CRUD
+django CRUD - Zuri X I4G task
